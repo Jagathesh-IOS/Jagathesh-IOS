@@ -13,7 +13,7 @@
 - Project Management ( Waterfall & Agile methodlogy )
 
 🌱 I’m currently learning:
-- RX-Swift
+- RX-Swift / Reactive programming
 - SOLID Principle
 - Unit Test Case
 - CI/CD
