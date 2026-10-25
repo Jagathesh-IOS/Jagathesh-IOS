@@ -1,27 +1,16 @@
-👋  Hi, i'm Jagathesh, Mobile App Developer 
+# Hi, I'm Jagathesh 👋
 
-✨ Reach me when you need an iOS developer ✨
+Senior iOS Engineer with 9+ years of experience, based in Coimbatore, India.
 
-🚀 Expertise:
+I build native iOS apps in healthcare and connected-device domains, with a focus on reliable, maintainable code.
 
-- iOS Application Development ( iPhone & iPad )
-- Swift & ObjectiveC
-- Design Patterns ( MVC | MVVM | MVVM-C )
-- Google map, Mapbox integration
-- In-app purchase
-- Payment gateway integration
-- Project Management ( Waterfall & Agile methodlogy )
+## What I work with
+- Swift, SwiftUI, UIKit, Objective-C
+- CoreBluetooth (BLE), Core Data, offline sync
+- MVVM / MVVM-C, REST APIs, Firebase
+- XCTest, GitHub Actions, SonarCloud
+- Agile and Scrum (sprint planning, estimation, client meetings)
 
-🌱 I’m currently learning:
-- RX-Swift / Reactive programming
-- SOLID Principle
-- Unit Test Case
-- CI/CD
-
-📫 Reach me via:
-
-🌈 https://www.instagram.com/jackjagathesh/
-
-:octocat: https://github.com/Jagathesh-IOS
-
-🧑‍🤝‍🧑 https://www.linkedin.com/in/jagatheshr/
+## Contact
+- LinkedIn: https://www.linkedin.com/in/jagatheshr/
+- Email: jagatheshr24@gmail.com
